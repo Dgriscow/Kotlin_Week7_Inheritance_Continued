@@ -1,6 +1,6 @@
 class MainCalls {
     fun presentMenu(){
-        //user enters `q` to leave
+        //user enters `0` to leave
         var userInput:Int = 0
 
         //Use a do while loop to present user choices
